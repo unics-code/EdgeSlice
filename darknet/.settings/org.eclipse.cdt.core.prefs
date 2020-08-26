@@ -1,0 +1,9 @@
+eclipse.preferences.version=1
+environment/project/cdt.managedbuild.toolchain.gnu.cross.base.1151118226/LD_LIBRARY_PATH/delimiter=\:
+environment/project/cdt.managedbuild.toolchain.gnu.cross.base.1151118226/LD_LIBRARY_PATH/operation=append
+environment/project/cdt.managedbuild.toolchain.gnu.cross.base.1151118226/LD_LIBRARY_PATH/value=/usr/local/cuda/lib64
+environment/project/cdt.managedbuild.toolchain.gnu.cross.base.1151118226/PATH/delimiter=\:
+environment/project/cdt.managedbuild.toolchain.gnu.cross.base.1151118226/PATH/operation=append
+environment/project/cdt.managedbuild.toolchain.gnu.cross.base.1151118226/PATH/value=/bin\:/usr/local/sbin\:/usr/local/bin\:/usr/sbin\:/usr/bin\:/sbin\:/usr/games\:/usr/local/games\:/snap/bin\:/usr/local/cuda/bin
+environment/project/cdt.managedbuild.toolchain.gnu.cross.base.1151118226/append=true
+environment/project/cdt.managedbuild.toolchain.gnu.cross.base.1151118226/appendContributed=true
