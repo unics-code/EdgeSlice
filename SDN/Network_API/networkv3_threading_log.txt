@@ -1,0 +1,151 @@
+Switch 106225813883734 was cleared
+
+Time;0.0188009738922;Request_Type;DELETE;Switch_Num; ;Function_Name;clear
+Switch 106225813882690 was cleared
+
+Time;0.0497550964355;Request_Type;DELETE;Switch_Num; ;Function_Name;clear
+Switch 106225813884292 was cleared
+
+Time;0.0169658660889;Request_Type;DELETE;Switch_Num; ;Function_Name;clear
+Switch 106225813882258 was cleared
+
+Time;0.0163960456848;Request_Type;DELETE;Switch_Num; ;Function_Name;clear
+Switch 106225813899736 was cleared
+
+Time;0.0167739391327;Request_Type;DELETE;Switch_Num; ;Function_Name;clear
+Time;0.00244808197021;Request_Type;GET;Switch_Num;106225813883734;Function_Name;add_meter
+Meter 1 was added
+
+Time;0.037829875946;Request_Type;PUT;Switch_Num;106225813883734;Function_Name;add_meter
+Time;0.00241422653198;Request_Type;GET;Switch_Num;106225813882690;Function_Name;add_meter
+Meter 1 was added
+
+Time;0.0236241817474;Request_Type;PUT;Switch_Num;106225813882690;Function_Name;add_meter
+Time;0.00241589546204;Request_Type;GET;Switch_Num;106225813884292;Function_Name;add_meter
+Meter 1 was added
+
+Time;0.0382568836212;Request_Type;PUT;Switch_Num;106225813884292;Function_Name;add_meter
+Time;0.00233197212219;Request_Type;GET;Switch_Num;106225813882258;Function_Name;add_meter
+Meter 1 was added
+
+Time;0.0236370563507;Request_Type;PUT;Switch_Num;106225813882258;Function_Name;add_meter
+Time;0.0024311542511;Request_Type;GET;Switch_Num;106225813899736;Function_Name;add_meter
+Meter 1 was added
+
+Time;0.0388121604919;Request_Type;PUT;Switch_Num;106225813899736;Function_Name;add_meter
+Time;0.00334405899048;Request_Type;GET;Switch_Num;106225813883734;Function_Name;add_meter
+Time;0.00245809555054;Request_Type;GET;Switch_Num;106225813883734;Function_Name;add_meter
+Meter 2 was added
+
+Time;0.0196228027344;Request_Type;PUT;Switch_Num;106225813883734;Function_Name;add_meter
+Time;0.00246405601501;Request_Type;GET;Switch_Num;106225813882690;Function_Name;add_meter
+Time;0.00198698043823;Request_Type;GET;Switch_Num;106225813882690;Function_Name;add_meter
+Meter 2 was added
+
+Time;0.0364949703217;Request_Type;PUT;Switch_Num;106225813882690;Function_Name;add_meter
+Time;0.00228404998779;Request_Type;GET;Switch_Num;106225813884292;Function_Name;add_meter
+Time;0.0020580291748;Request_Type;GET;Switch_Num;106225813884292;Function_Name;add_meter
+Meter 2 was added
+
+Time;0.0214049816132;Request_Type;PUT;Switch_Num;106225813884292;Function_Name;add_meter
+Time;0.0022439956665;Request_Type;GET;Switch_Num;106225813882258;Function_Name;add_meter
+Time;0.00258708000183;Request_Type;GET;Switch_Num;106225813882258;Function_Name;add_meter
+Meter 2 was added
+
+Time;0.0359201431274;Request_Type;PUT;Switch_Num;106225813882258;Function_Name;add_meter
+Time;0.00271391868591;Request_Type;GET;Switch_Num;106225813899736;Function_Name;add_meter
+Time;0.00258207321167;Request_Type;GET;Switch_Num;106225813899736;Function_Name;add_meter
+Meter 2 was added
+
+Time;0.0205318927765;Request_Type;PUT;Switch_Num;106225813899736;Function_Name;add_meter
+Time;0.00245594978333;Request_Type;GET;Switch_Num;106225813883734;Function_Name;add_meter
+Time;0.00258588790894;Request_Type;GET;Switch_Num;106225813883734;Function_Name;add_meter
+Time;0.00293302536011;Request_Type;GET;Switch_Num;106225813883734;Function_Name;add_meter
+Meter 3 was added
+
+Time;0.0331811904907;Request_Type;PUT;Switch_Num;106225813883734;Function_Name;add_meter
+Time;0.00222706794739;Request_Type;GET;Switch_Num;106225813882690;Function_Name;add_meter
+Time;0.00213503837585;Request_Type;GET;Switch_Num;106225813882690;Function_Name;add_meter
+Time;0.00299406051636;Request_Type;GET;Switch_Num;106225813882690;Function_Name;add_meter
+Meter 3 was added
+
+Time;0.0176908969879;Request_Type;PUT;Switch_Num;106225813882690;Function_Name;add_meter
+Time;0.00224304199219;Request_Type;GET;Switch_Num;106225813884292;Function_Name;add_meter
+Time;0.00170993804932;Request_Type;GET;Switch_Num;106225813884292;Function_Name;add_meter
+Time;0.0023341178894;Request_Type;GET;Switch_Num;106225813884292;Function_Name;add_meter
+Meter 3 was added
+
+Time;0.0351188182831;Request_Type;PUT;Switch_Num;106225813884292;Function_Name;add_meter
+Time;0.00297617912292;Request_Type;GET;Switch_Num;106225813882258;Function_Name;add_meter
+Time;0.0021538734436;Request_Type;GET;Switch_Num;106225813882258;Function_Name;add_meter
+Time;0.00202894210815;Request_Type;GET;Switch_Num;106225813882258;Function_Name;add_meter
+Meter 3 was added
+
+Time;0.018285036087;Request_Type;PUT;Switch_Num;106225813882258;Function_Name;add_meter
+Time;0.00318098068237;Request_Type;GET;Switch_Num;106225813899736;Function_Name;add_meter
+Time;0.00575518608093;Request_Type;GET;Switch_Num;106225813899736;Function_Name;add_meter
+Time;0.00278115272522;Request_Type;GET;Switch_Num;106225813899736;Function_Name;add_meter
+Meter 3 was added
+
+Time;0.0379810333252;Request_Type;PUT;Switch_Num;106225813899736;Function_Name;add_meter
+Time;0.00263690948486;Request_Type;GET;Switch_Num;106225813883734;Function_Name;add_meter
+Time;0.00247383117676;Request_Type;GET;Switch_Num;106225813883734;Function_Name;add_meter
+Time;0.00267910957336;Request_Type;GET;Switch_Num;106225813883734;Function_Name;add_meter
+Time;0.00247097015381;Request_Type;GET;Switch_Num;106225813883734;Function_Name;add_meter
+Meter 4 was added
+
+Time;0.0146341323853;Request_Type;PUT;Switch_Num;106225813883734;Function_Name;add_meter
+Time;0.00236296653748;Request_Type;GET;Switch_Num;106225813882690;Function_Name;add_meter
+Time;0.00239992141724;Request_Type;GET;Switch_Num;106225813882690;Function_Name;add_meter
+Time;0.00216889381409;Request_Type;GET;Switch_Num;106225813882690;Function_Name;add_meter
+Time;0.00232887268066;Request_Type;GET;Switch_Num;106225813882690;Function_Name;add_meter
+Meter 4 was added
+
+Time;0.0324649810791;Request_Type;PUT;Switch_Num;106225813882690;Function_Name;add_meter
+Time;0.00267291069031;Request_Type;GET;Switch_Num;106225813884292;Function_Name;add_meter
+Time;0.00261211395264;Request_Type;GET;Switch_Num;106225813884292;Function_Name;add_meter
+Time;0.00283694267273;Request_Type;GET;Switch_Num;106225813884292;Function_Name;add_meter
+Time;0.00293302536011;Request_Type;GET;Switch_Num;106225813884292;Function_Name;add_meter
+Meter 4 was added
+
+Time;0.0138819217682;Request_Type;PUT;Switch_Num;106225813884292;Function_Name;add_meter
+Time;0.00238704681396;Request_Type;GET;Switch_Num;106225813882258;Function_Name;add_meter
+Time;0.00200819969177;Request_Type;GET;Switch_Num;106225813882258;Function_Name;add_meter
+Time;0.0019109249115;Request_Type;GET;Switch_Num;106225813882258;Function_Name;add_meter
+Time;0.00205683708191;Request_Type;GET;Switch_Num;106225813882258;Function_Name;add_meter
+Meter 4 was added
+
+Time;0.0332720279694;Request_Type;PUT;Switch_Num;106225813882258;Function_Name;add_meter
+Time;0.00239396095276;Request_Type;GET;Switch_Num;106225813899736;Function_Name;add_meter
+Time;0.00180006027222;Request_Type;GET;Switch_Num;106225813899736;Function_Name;add_meter
+Time;0.00238919258118;Request_Type;GET;Switch_Num;106225813899736;Function_Name;add_meter
+Time;0.00265407562256;Request_Type;GET;Switch_Num;106225813899736;Function_Name;add_meter
+Meter 4 was added
+
+Time;0.0159158706665;Request_Type;PUT;Switch_Num;106225813899736;Function_Name;add_meter
+flow num way to big ------------------------------- 1----------switch # 106225813883734
+ARP Flow entry was added to connect port 1 to 11.
+
+DELTA TIME 4 IPV4: 0.0213899612427
+IPv4 Flow entry was added to connect port 1 to 11.
+
+DELTA TIME 4 ADD FLOW W/ METER: 0.0666511058807
+flow num way to big ------------------------------- 1----------switch # 106225813882690
+ARP Flow entry was added to connect port 11 to 1.
+
+DELTA TIME 4 IPV4: 0.0460441112518
+IPv4 Flow entry was added to connect port 11 to 1.
+
+DELTA TIME 4 ADD FLOW W/ METER: 0.0919189453125
+flow num way to big ------------------------------- 1----------switch # 106225813884292
+ARP Flow entry was added to connect port 1 to 5.
+
+DELTA TIME 4 IPV4: 0.0386769771576
+IPv4 Flow entry was added to connect port 1 to 5.
+
+DELTA TIME 4 ADD FLOW W/ METER: 0.0664160251617
+flow num way to big ------------------------------- 3----------switch # 106225813884292
+DELTA TIME 4 ARP: 0.0184938907623
+ARP Group Flow entry was added.
+
+DELTA TIME 4 AR
