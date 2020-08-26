@@ -8,4 +8,4 @@ The RAN implementation uses OpenAirInterface and OpenAir-CN, where our code virt
 The transportation network implementation uses OpenDayLight and OpenFlow switches, where our code virtualized the transport resource (bandwidth) and provide corresponding API for resource allocation.
 The edge computing server implementation uses the Darknet object detection framework (YOLO), where our code virtualized the GPU computing resource (parallel threads) and provide corresponding API for resource allocation.
 
-For detailed system build instructions, please refer to my email(qliu12@uncc.edu).
+For detailed system build instructions, please refer to the email of the first author: qliu12@uncc.edu.
